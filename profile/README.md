@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="http://geotarget-stack.github.io/.github">
-    <img src="https://img.shields.io/badge/⬇️_Download_GeoTarget_Stack-RapidWeaver-Stack-Blue-Accent-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download GeoTarget Stack for RapidWeaver">
+    <strong>⬇️ Download GeoTarget Stack for macOS</strong>
   </a>
 </p>
+
 
 ---
 
@@ -93,7 +94,7 @@ Yes, you can set multiple conditions (e.g. country AND state) to precisely contr
 
 <p align="center">
   <a href="http://geotarget-stack.github.io/.github">
-    <img src="https://img.shields.io/badge/⬇️_Download_GeoTarget_Stack-RapidWeaver-Stack-Blue-Accent-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download GeoTarget Stack for RapidWeaver">
+    <strong>⬇️ Download GeoTarget Stack for macOS</strong>
   </a>
 </p>
 
